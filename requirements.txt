@@ -1,0 +1,8 @@
+Flask==3.0.0
+gunicorn==21.2.0
+Werkzeug==3.0.0
+openai==0.28.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+simple-salesforce==1.12.5
+Pympler==1.0.1
